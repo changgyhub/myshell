@@ -19,7 +19,7 @@ Implementation of bash shell in C, for the [Operating System Course](http://www.
  * `exit`
 
 ### Blocked Functionalities
- - SIGINT signal in `myshell`. You cannot exit this program using SIGINT signal.
+ - SIGINT signal in `myshell`. You cannot exit this program using SIGINT signal. Use `exit` instead.
 
-### Disabled or unimplemented Functionalities
+### Disabled or Unimplemented Functionalities
  - `cd`: changing folder is not supported in `myshell`
