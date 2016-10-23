@@ -2,7 +2,7 @@
 
 Implementation of bash shell in C, for the [Operating System Course](http://www.cs.hku.hk/programme/course_info.jsp?infile=2013/comp3230.html "HKU COMP3230 Principles of Operating Systems") in HKU.
 
-<img src="https://github.com/irsisyphus/pictures/raw/master/myshell/myshell.png" width = "350" height = "180" alt="Host and Port" align=center />
+<img src="https://github.com/irsisyphus/pictures/raw/master/myshell/myshell.png" width = "642" height = "396" alt="Host and Port" align=center />
 
 ### Development Platform
  - 64-bit ubuntu 14.04 LTS
