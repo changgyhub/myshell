@@ -14,8 +14,7 @@ Implementation of bash shell in C, for the [Operating System Course](http://www.
  - Commands in `/bin:/usr/bin`
  - pipe
  - background mode
- - `timeX`: a built-in function of counting time of execution, support pipe and foreground commands.
- > For instance, `timeX ls -l | wc`
+ - `timeX`: a built-in function of counting time of execution, support pipe and foreground commands. For instance, `timeX ls -l | wc`
  - `exit`
 
 ### Blocked Functionalities
