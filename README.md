@@ -13,12 +13,10 @@ Implementation of bash shell in C, for the [Operating System Course](http://www.
  - Run: `./myshell`
 
 ### Enabled Functionalities
- * Commands in `/bin:/usr/bin`
- * pipe
- * background mode
- * `timeX`: a built-in function for counting execution time, support pipe and foreground commands.
- - For instance, `timeX ls -l | wc`
- * `exit`
+ -  Commands in `/bin:/usr/bin`
+ - pipe
+ - background mode
+ - `timeX`: a built-in function for counting execution time, support pipe and foreground commands. For instance, `timeX ls -l | wc`
 
 ### Blocked Functionalities
  - SIGINT signal in `myshell`. You cannot exit this program using SIGINT signal. Use `exit` instead.
